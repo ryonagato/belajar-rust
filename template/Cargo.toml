@@ -1,11 +1,12 @@
 [package]
-name = "{{project-name}}"
+name = "belajar-rust"
 version = "0.1.0"
 edition = "2021"
-description = "{{project-description}}"
-repository = "https://github.com/{{gh-username}}/{{project-name}}"
+description = ""
+repository = "https://github.com/ryonagato/belajar-rust"
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand="0.8.5"
